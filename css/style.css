@@ -260,7 +260,7 @@ img {
 .campo {
   display: flex;
   margin-bottom: 2rem;
-  gap: 2rem;
+  gap: 1rem;
 }
 .campo__label {
   flex: 0 0 9rem;
